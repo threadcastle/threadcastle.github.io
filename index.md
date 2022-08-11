@@ -13,4 +13,4 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ## Contact
 
-[report](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) 
+[report](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/threadcastle/threadcastle.github.io/blob/main/Yiyin_Jiang_MSDS_IU_Bloomington_2022.pdf) 
